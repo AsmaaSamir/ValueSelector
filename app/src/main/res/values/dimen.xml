@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="valueSelector_button_hMargin">10dp</dimen>
+    <dimen name="valueSelector_button_insideMargin">10dp</dimen>
+    <dimen name="valueSelector_label_text">17sp</dimen>
+    <dimen name="valueSelector_margin_top">10dp</dimen>
+    <dimen name="valueSelector_text">15sp</dimen>
+</resources>
